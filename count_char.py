@@ -1,0 +1,1 @@
+#Write a Python program to count the number of characters in a string. Sample String : 'google.com'
